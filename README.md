@@ -1,7 +1,7 @@
 # 🛠️ Problem Solver
 - 프로그래머의 자질은 문제해결능력에서 비롯된다.
 
-## 🧩 코드메이트 : https://www.codemate.kr
+## 🧩 코드메이트 : https://www.codemate.kr (Beta)
 - 백준 스터디 플랫폼 (1인 개발)
 - 매일 알고리즘 문제를 추천하고, 스터디의 진행을 관리
 
