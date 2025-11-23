@@ -6,20 +6,31 @@
 - 매일 알고리즘 문제를 추천하고, 스터디의 진행을 관리
 
 
-## 🏆 Awards
+## 🏆 Achievements
+### Awards
 - 2025 서울시 일자리 박람회 코드레이스 1등 (2025.11)
 - 중앙대학교 코딩경진대회 최우수상 (2025.10)
 - SW마에스트로 제15기 우수자(7.5%) 인증서  : 과학기술정보통신부 장관상 (2025.06)
 - SW마에스트로 제15기 우수 프로젝트상 (2024.12)
 - 제35회 한국정보올림피아드(KOI) 고등부 장려상 (2018.08)
 - 제34회 한국정보올림피아드(KOI) 고등부 장려상 (2017.11)
+
+### Competitive Programming
+- 2025 ICPC Seoul Regional Finalist (71st)
+- 2025 ACPC Finalist (55th)
+- 2025 UCPC Finalist (53rd)
+
+### Certifications
+- Samsung SW Expert Academy — Level B
+- TOPCIT (Test of Practical Competency in IT) — 787 / Level 4
+
 ---
 ## ⭐️ Tech Stack
 ### Language
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
 
 ### Front-end
-<img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 ### Back-end
 <img src="https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
