@@ -17,8 +17,8 @@
 
 ### Competitive Programming
 - 2025 ICPC Seoul Regional Finalist (71st)
-- 2025 ACPC Finalist (55th)
 - 2025 UCPC Finalist (53rd)
+- 2025 ACPC Finalist (55th)
 
 ### Certifications
 - Samsung SW Expert Academy — Level B
