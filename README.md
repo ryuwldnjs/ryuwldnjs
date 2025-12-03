@@ -21,7 +21,7 @@
 - 2025 ACPC Finalist (55th)
 
 ### Certifications
-- Samsung SW Expert Academy — Level B
+- Samsung SW Certification — Professional (B Level)
 - TOPCIT (Test of Practical Competency in IT) — 787 / Level 4
 
 ---
