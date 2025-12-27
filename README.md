@@ -60,10 +60,6 @@
 ### Database
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-### DevOps
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuwldnjs&show_icons=true&theme=cobalt)](https://github.com/ryuwldnjs)
 <br>
